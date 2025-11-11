@@ -4,6 +4,15 @@ I'm currently studying a computer and systems engineering.
 
 passionated for computer graphics, software development, low level stuff.
 
+My learning background:
+ -Oracle ONE 2024 graduate.
+ -Mision Tic 2023 graduate.
+
+Languajes I like and domain:
+  - C++.
+  - python.
+  - javascript.
+  - 
 <!--
 **erikfora11/erikfora11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
