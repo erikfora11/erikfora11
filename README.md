@@ -12,7 +12,6 @@ Languajes I like and domain:
   - C++.
   - python.
   - javascript.
-  - 
 <!--
 **erikfora11/erikfora11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
