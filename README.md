@@ -6,7 +6,7 @@ passionated for computer graphics, software development, low level stuff.
 
 My learning background:
   - Oracle ONE 2024 graduate.
-  - Mision Tic 2023 graduate.
+  - Mision Tic 2022 graduate.
 
 Languajes I like and domain:
   - C++.
