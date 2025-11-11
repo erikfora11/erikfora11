@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hi there I'm Erik forero, better known as Fenn or erikfora 11👋
+
+I'm currently studying a computer and systems engineering.
+
+passionated for computer graphics, software development, low level stuff.
 
 <!--
 **erikfora11/erikfora11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
